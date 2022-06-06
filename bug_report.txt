@@ -1,1 +1,7 @@
-
+id: 1,
+summary: Link of Privacy redirects to the Terms and Conditions Page when you click on it,
+STR: 1. Click the Privacy link,
+AR: The warning that it will be The Terms and Conditions page (document) soon,
+ER: The page of Privacy opens,
+Severity: Minor,
+Priority: Normal
